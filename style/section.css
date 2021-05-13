@@ -1,5 +1,5 @@
 .effectFooter {
-    background-image: url(/public/efeito-onda-marrom.png);
+    background-image: url(https://felliipe.github.io/public/efeito-onda-marrom.png);
     background-position: top;
     background-size: contain;
 
@@ -10,7 +10,7 @@
 }
 
 #backgroundPrimare {
-    background-image: url(/public/background-effect.png);
+    background-image: url(https://felliipe.github.io/public/background-effect.png);
     background-position: top;
     background-size: cover;
 
