@@ -1,0 +1,60 @@
+.effectFooter {
+    background-image: url(/public/efeito-onda-marrom.png);
+    background-position: top;
+    background-size: contain;
+
+    background-color: #ff798e;
+
+    width: 100vw;
+    height: 7.6rem;
+}
+
+#backgroundPrimare {
+    background-image: url(/public/background-effect.png);
+    background-position: top;
+    background-size: cover;
+
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    flex-direction: column;
+}
+
+#backgroundPrimare h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 7rem;
+    color: #ffccd2;
+
+    text-shadow: 3px 2px #fff;
+
+    text-transform: uppercase;
+}
+
+#backgroundPrimare h2{
+    font-family: 'Sacramento', sans-serif;
+    
+    color: #33190a;
+    font-size: 7rem;
+
+    transform: rotate(-20deg);
+}
+
+#backgroundPrimare div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: relative;
+    top: 9rem;
+}
+
+#backgroundPrimare img {
+    width: 46%;
+
+    z-index: 9;
+}
