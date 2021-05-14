@@ -58,3 +58,14 @@
 
     z-index: 9;
 }
+
+#backgroundPrimare img:first-child {
+    position: absolute;
+
+    z-index: -1;
+
+    width: 100vw;
+
+    top: 10rem;
+}
+
