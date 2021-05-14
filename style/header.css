@@ -38,7 +38,17 @@ header ul li svg {
 header ul li a {
     text-decoration: none;
 
+    display: flex;
+    flex-direction: row;
+    
+    
+
     font-size: 1rem;
     color: var(--gray-50);
 }
+
+header ul li a svg {
+    margin-right: .5rem;
+}
+
 
