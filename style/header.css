@@ -9,8 +9,12 @@ header {
     
 }
 
-header img {
-    width: 10rem;
+header .logo {
+    width: 30%;
+}
+
+header .logo svg {
+    width: 50%;
 }
 
 header svg  {
