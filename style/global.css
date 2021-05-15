@@ -18,9 +18,10 @@
     margin: 0;
     box-sizing: border-box;
 }
-
-body { 
-    overflow-x: hidden;
+@media screen and (max-width: 980px) {
+    body { 
+        overflow-x: hidden;
+    }
 }
 
 body, input, textarea, button {
