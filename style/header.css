@@ -23,7 +23,7 @@ header svg  {
 }
 
 header ul { 
-    display: flex;
+    display: flex; 
 }
 
 header ul li {
