@@ -18,11 +18,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-@media screen and (max-width: 980px) {
-    body { 
-        overflow-x: hidden;
-    }
-}
 
 body, input, textarea, button {
     font: 500 1rem 'Inter', sans-serif;
